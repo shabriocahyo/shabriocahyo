@@ -1,4 +1,5 @@
 # Hi there 👋, I'am Shabrio!
+As a Computer Science student with a strong interest in technology and data, I am pursuing a career as a Junior Data Scientist to strengthen business performance. Skilled in programming languages such as Python, Java, and C, as well as utilizing tools such as Jupyter Notebook/Google Colab and data visualization techniques. Actively writing articles and working on case studies to enhance my expertise in Data Science.
 
 <!--
 **shabriocahyo/shabriocahyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
